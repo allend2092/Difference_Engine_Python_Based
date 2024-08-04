@@ -30,12 +30,12 @@ initial_positions = [100, 150, 210, 280]
 
 Process finished with exit code 0
 
-Day 1: Position = 100 units (initial value)
-Day 2: Position = 150 units (initial value)
-Day 3: Position = 210 units (initial value)
-Day 4: Position = 280 units (initial value)
-Day 5: Position = 360 units (predicted value)
-Day 6: Position = 450 units (predicted value)
+Day 1: Position = 100 units (initial value)  
+Day 2: Position = 150 units (initial value)  
+Day 3: Position = 210 units (initial value)  
+Day 4: Position = 280 units (initial value)  
+Day 5: Position = 360 units (predicted value)  
+Day 6: Position = 450 units (predicted value)  
 Day 7: Position = 550 units (predicted value)
 Day 8: Position = 660 units (predicted value)
 Day 9: Position = 780 units (predicted value)
